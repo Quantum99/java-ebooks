@@ -16,10 +16,16 @@ The MIT License (MIT)
 
 [Java in a Nutshell Kindle Edition by Benjamin J Evans - 2015](%5BJava%20in%20a%20Nutshell%20Kindle%20Edition%20by%20Benjamin%20J%20Evans%20-%202015%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Nutshell-Benjamin-J-Evans-ebook/dp/B00OL0853O/ref=mt_kindle?_encoding=UTF8&me=)  
 [Java SE8 for the Really Impatient: A Short Course on the Basics (Java Series) Kindle Edition by Cay S. Horstmann - 2014](%5BJava%20SE8%20for%20the%20Really%20Impatient%20A%20Short%20Course%20on%20the%20Basics%20(Java%20Series)%20Kindle%20Edition%20by%20Cay%20S.%20Horstmann%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-SE8-Really-Impatient-Course-ebook/dp/B00HSH2QT6/ref=mt_kindle?_encoding=UTF8&me=)  
+[The CERT Oracle Secure Coding Standard for Java (SEI Series in Software Engineering) Kindle Edition by Fred Long - 2012](%5BThe%20CERT%20Oracle%20Secure%20Coding%20Standard%20for%20Java%20(SEI%20Series%20in%20Software%20Engineering)%20Kindle%20Edition%20by%20Fred%20Long%20-%202012%5D.pdf)  [**Buy**](https://www.amazon.com/Oracle-Secure-Standard-Software-Engineering-ebook/dp/B005LVNX5W/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Cassandra
 
 [Cassandra Design Patterns Kindle Edition by Sanjay Sharma - 2014](%5BCassandra%20Design%20Patterns%20Kindle%20Edition%20by%20Sanjay%20Sharma%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Cassandra-Design-Patterns-Sanjay-Sharma-ebook/dp/B00I2ORN2E/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1469871927&sr=1-2&keywords=Cassandra+Design+Patterns#nav-subnav)  
+
+## Apache Camel
+
+[Camel in Action Paperback by Claus Ibsen - 2011](%5BCamel%20in%20Action%20Paperback%20by%20Claus%20Ibsen%20-%202011%5D.pdf)  [**Buy**](https://www.amazon.com/Camel-Action-Claus-Ibsen/dp/1935182366/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1474712056&sr=1-1-catcorr&keywords=Camel+in+Action)  
+[Apache Camel Developer's Cookbook Paperback by Scott Cranton - 2013](%5BApache%20Camel%20Developer's%20Cookbook%20Paperback%20by%20Scott%20Cranton%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Developers-Cookbook-Integration-Accessible-Recipes/dp/1782170308/ref=sr_1_1?s=books&ie=UTF8&qid=1474712116&sr=1-1&keywords=Apache+Camel+Developer%27s+Cookbook)  
 
 ## Interview 
 
@@ -38,6 +44,14 @@ The MIT License (MIT)
 
 [REST in Practice: Hypermedia and Systems Architecture Kindle Edition by Ian Robinson - 2010](%5BREST%20in%20Practice%20Hypermedia%20and%20Systems%20Architecture%20Kindle%20Edition%20by%20Ian%20Robinson%20-%202010%5D.pdf)  [**Buy**](https://www.amazon.com/REST-Practice-Hypermedia-Systems-Architecture-ebook/dp/B0046RERXY/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
 [Restlet in Action: Developing RESTful web APIs in Java 1st Edition by Jerome Louvel - 2013](%5BRestlet%20in%20Action%20Developing%20RESTful%20web%20APIs%20in%20Java%201st%20Edition%20by%20Jerome%20Louvel%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Restlet-Action-Developing-RESTful-APIs/dp/193518234X/ref=sr_1_1?ie=UTF8&qid=1474710303&sr=8-1&keywords=Restlet+in+Action)  
+
+## OSGi
+
+[OSGi in Action: Creating Modular Applications in Java 1st Edition by Richard Hall - 2011](%5BOSGi%20in%20Action%20Creating%20Modular%20Applications%20in%20Java%201st%20Edition%20by%20Richard%20Hall%20-%202011%5D.pdf)  [**Buy**](https://www.amazon.com/OSGi-Action-Creating-Modular-Applications/dp/1933988916/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1474711891&sr=8-1&keywords=OSGi+in+Action)  
+
+## Scripting
+
+[Scripting in Java: Integrating with Groovy and JavaScript Kindle Edition by Kishori Sharan - 2012](%5BScripting%20in%20Java%20Integrating%20with%20Groovy%20and%20JavaScript%20Kindle%20Edition%20by%20Kishori%20Sharan%20-%202012%5D.pdf)  [**Buy**](https://www.amazon.com/Scripting-Java-Integrating-Groovy-JavaScript-ebook/dp/B00OLET42G/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Other
 
