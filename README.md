@@ -14,11 +14,21 @@ The MIT License (MIT)
 
 ## Cassandra
 
+## Guide
+
+[Java in a Nutshell Kindle Edition by Benjamin J Evans - 2015](%5BJava%20in%20a%20Nutshell%20Kindle%20Edition%20by%20Benjamin%20J%20Evans%20-%202015%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Nutshell-Benjamin-J-Evans-ebook/dp/B00OL0853O/ref=mt_kindle?_encoding=UTF8&me=)  
+[Java SE8 for the Really Impatient: A Short Course on the Basics (Java Series) Kindle Edition by Cay S. Horstmann - 2014](%5BJava%20SE8%20for%20the%20Really%20Impatient%20A%20Short%20Course%20on%20the%20Basics%20(Java%20Series)%20Kindle%20Edition%20by%20Cay%20S.%20Horstmann%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-SE8-Really-Impatient-Course-ebook/dp/B00HSH2QT6/ref=mt_kindle?_encoding=UTF8&me=)  
+
 [Cassandra Design Patterns Kindle Edition by Sanjay Sharma - 2014](%5BCassandra%20Design%20Patterns%20Kindle%20Edition%20by%20Sanjay%20Sharma%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Cassandra-Design-Patterns-Sanjay-Sharma-ebook/dp/B00I2ORN2E/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1469871927&sr=1-2&keywords=Cassandra+Design+Patterns#nav-subnav)  
 
 ## Interview 
 
 [Java Programming Interviews Exposed Kindle Edition by Noel Markham - 2014](%5BJava%20Programming%20Interviews%20Exposed%20Kindle%20Edition%20by%20Noel%20Markham%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Programming-Interviews-Exposed-Markham-ebook/dp/B00IA4BHN2/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
+[Java & J2EE Job Interview Companion Paperback by Arulkumaran - 2007](%5BJava%20%26%20J2EE%20Job%20Interview%20Companion%20Paperback%20by%20Arulkumaran%20-%202007%5D.pdf)  [**Buy**](https://www.amazon.com/Java-J2EE-Job-Interview-Companion/dp/B001T73U8M/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1474709469&sr=8-2&keywords=Java+J2EE+Job+Interview+Companion)  
+
+## NIO
+
+[Pro Java 7 NIO.2 (Expert's Voice in Java) Kindle Edition by Anghel Leonard - 2011](%5BPro%20Java%207%20NIO.2%20(Expert's%20Voice%20in%20Java)%20Kindle%20Edition%20by%20Anghel%20Leonard%20-%202011%5D.pdf)  [**Buy**](https://www.amazon.com/Pro-Java-NIO-2-Experts-Voice-ebook/dp/B006JPPN0W/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Patterns
 
@@ -27,6 +37,7 @@ The MIT License (MIT)
 ## REST
 
 [REST in Practice: Hypermedia and Systems Architecture Kindle Edition by Ian Robinson - 2010](%5BREST%20in%20Practice%20Hypermedia%20and%20Systems%20Architecture%20Kindle%20Edition%20by%20Ian%20Robinson%20-%202010%5D.pdf)  [**Buy**](https://www.amazon.com/REST-Practice-Hypermedia-Systems-Architecture-ebook/dp/B0046RERXY/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
+[Restlet in Action: Developing RESTful web APIs in Java 1st Edition by Jerome Louvel - 2013](%5BRestlet%20in%20Action%20Developing%20RESTful%20web%20APIs%20in%20Java%201st%20Edition%20by%20Jerome%20Louvel%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Restlet-Action-Developing-RESTful-APIs/dp/193518234X/ref=sr_1_1?ie=UTF8&qid=1474710303&sr=8-1&keywords=Restlet+in+Action)  
 
 ## Other
 
@@ -39,6 +50,10 @@ The MIT License (MIT)
 #### Security
 [Secure Web Development Teaching Modules. Introduction to Java Security by Li-Chiou Chen - 2011](%5BSecure%20Web%20Development%20Teaching%20Modules.%20Introduction%20to%20Java%20Security%20by%20Li-Chiou%20Chen%20-%202011%5D.pdf)  
 [Authentication and Session Management by Jim Manico - 2015](%5BAuthentication%20and%20Session%20Management%20by%20Jim%20Manico%20-%202015%5D.pdf)  
+
+## Lectures, the best collection
+
+[**000. Top 10 Most Common Java Performance Problems, AppDynamics - 2013**](%5BAPP_DYNAMICS%5D%5BTop%2010%20Most%20Common%20Java%20Performance%20Problems%20-%202013%5D.pdf)  
 
 ## Online resources, the best collection
 
