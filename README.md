@@ -85,7 +85,7 @@ The MIT License (MIT)
 ## Lectures, the best collection
 
 [**000. Top 10 Most Common Java Performance Problems, AppDynamics - 2013**](%5BAPP_DYNAMICS%5D%5BTop%2010%20Most%20Common%20Java%20Performance%20Problems%20-%202013%5D.pdf)  
-[**001. Java Web Security Antipatterns Dominik Schadow - 2015](%5BJava%20Web%20Security%20Antipatterns%20Dominik%20Schadow%20-%202015%5D.pdf)  
+[**001. Java Web Security Antipatterns Dominik Schadow - 2015**](%5BJava%20Web%20Security%20Antipatterns%20Dominik%20Schadow%20-%202015%5D.pdf)  
 
 ## Online resources, the best collection
 
