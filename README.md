@@ -57,6 +57,10 @@ The MIT License (MIT)
 [Java Design Patterns Kindle Edition by Vaskaran Sarcar - 2016](%5BJava%20Design%20Patterns%20Kindle%20Edition%20by%20Vaskaran%20Sarcar%20-%202016%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Design-Patterns-Vaskaran-Sarcar-ebook/dp/B01CZY16VU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1469871978&sr=1-1&keywords=Java+Design+Patterns#nav-subnav)  
 [Professional Java EE Design Patterns Kindle Edition by Murat Yener - 2015](%5BProfessional%20Java%20EE%20Design%20Patterns%20Kindle%20Edition%20by%20Murat%20Yener%20-%202015%5D.pdf)  [**Buy**](https://www.amazon.com/Professional-Java-EE-Design-Patterns-ebook/dp/B00R7S6AFC/ref=mt_kindle?_encoding=UTF8&me=)  
 
+## Performance
+
+[Java Performance: The Definitive Guide Kindle Edition by Scott Oaks - 2014](%5BJava%20Performance%20The%20Definitive%20Guide%20Kindle%20Edition%20by%20Scott%20Oaks%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Performance-Definitive-Scott-Oaks-ebook/dp/B00JLTOZVQ/ref=mt_kindle?_encoding=UTF8&me=)  
+
 ## REST
 
 [REST in Practice: Hypermedia and Systems Architecture Kindle Edition by Ian Robinson - 2010](%5BREST%20in%20Practice%20Hypermedia%20and%20Systems%20Architecture%20Kindle%20Edition%20by%20Ian%20Robinson%20-%202010%5D.pdf)  [**Buy**](https://www.amazon.com/REST-Practice-Hypermedia-Systems-Architecture-ebook/dp/B0046RERXY/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
