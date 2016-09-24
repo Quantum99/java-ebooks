@@ -17,6 +17,9 @@ The MIT License (MIT)
 [Java in a Nutshell Kindle Edition by Benjamin J Evans - 2015](%5BJava%20in%20a%20Nutshell%20Kindle%20Edition%20by%20Benjamin%20J%20Evans%20-%202015%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Nutshell-Benjamin-J-Evans-ebook/dp/B00OL0853O/ref=mt_kindle?_encoding=UTF8&me=)  
 [Java SE8 for the Really Impatient: A Short Course on the Basics (Java Series) Kindle Edition by Cay S. Horstmann - 2014](%5BJava%20SE8%20for%20the%20Really%20Impatient%20A%20Short%20Course%20on%20the%20Basics%20(Java%20Series)%20Kindle%20Edition%20by%20Cay%20S.%20Horstmann%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-SE8-Really-Impatient-Course-ebook/dp/B00HSH2QT6/ref=mt_kindle?_encoding=UTF8&me=)  
 [The CERT Oracle Secure Coding Standard for Java (SEI Series in Software Engineering) Kindle Edition by Fred Long - 2012](%5BThe%20CERT%20Oracle%20Secure%20Coding%20Standard%20for%20Java%20(SEI%20Series%20in%20Software%20Engineering)%20Kindle%20Edition%20by%20Fred%20Long%20-%202012%5D.pdf)  [**Buy**](https://www.amazon.com/Oracle-Secure-Standard-Software-Engineering-ebook/dp/B005LVNX5W/ref=mt_kindle?_encoding=UTF8&me=)  
+[Java: The Complete Reference, Ninth Edition Kindle Edition by Herbert Schildt - 2014](%5BJava%20The%20Complete%20Reference%2C%20Ninth%20Edition%20Kindle%20Edition%20by%20Herbert%20Schildt%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt-ebook/dp/B00HSO0X6C/ref=mt_kindle?_encoding=UTF8&me=)  
+[Learning Java 4th Edition by Patrick Niemeyer - 2013](%5BLearning%20Java%204th%20Edition%20by%20Patrick%20Niemeyer%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Learning-Java-Patrick-Niemeyer/dp/1449319246/ref=mt_paperback?_encoding=UTF8&me=)  
+[The Well-Grounded Java Developer: Vital techniques of Java 7 and polyglot programming 1st Edition by Benjamin J Evans - 2013](%5BThe%20Well-Grounded%20Java%20Developer%20Vital%20techniques%20of%20Java%207%20and%20polyglot%20programming%201st%20Edition%20by%20Benjamin%20J%20Evans%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Well-Grounded-Java-Developer-techniques-programming/dp/1617290068/ref=sr_1_1?s=books&ie=UTF8&qid=1474743088&sr=1-1&keywords=The+Well-Grounded+Java+Developer+www.it-)   
 
 ## Cassandra
 
@@ -26,6 +29,11 @@ The MIT License (MIT)
 
 [Java Coding Guidelines: 75 Recommendations for Reliable and Secure Programs (SEI Series in Software Engineering) Kindle Edition by Fred Long - 2010](%5BJava%20Coding%20Guidelines%2075%20Recommendations%20for%20Reliable%20and%20Secure%20Programs%20(SEI%20Series%20in%20Software%20Engineering)%20Kindle%20Edition%20by%20Fred%20Long%20-%202010%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Coding-Guidelines-Recommendations-Engineering-ebook/dp/B00EQ8D31A/ref=mt_kindle?_encoding=UTF8&me=)  
 [Java Concurrency in Practice Kindle Edition by Tim Peierls - 2006](%5BJava%20Concurrency%20in%20Practice%20Kindle%20Edition%20by%20Tim%20Peierls%20-%202006%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Concurrency-Practice-Tim-Peierls-ebook/dp/B004V9OA84/ref=mt_kindle?_encoding=UTF8&me=)  
+
+## Certification
+
+[A Programmer's Guide to Java Certification: A Comprehensive Primer Kindle Edition by Khalid A Mughal - 2009](%5BA%20Programmer's%20Guide%20to%20Java%20Certification%20A%20Comprehensive%20Primer%20Kindle%20Edition%20by%20Khalid%20A%20Mughal%20-%202009%5D.pdf)  [**Buy**](https://www.amazon.com/Programmers-Guide-Java-Certification-Comprehensive-ebook/dp/B001QL5N4A/ref=mt_kindle?_encoding=UTF8&me=)  
+[Fast Track to Sun Certified Java Programmer (SCJP) 5.0 Upgrade Exam Paperback by Ka Iok Tong - 2006](%5BFast%20Track%20to%20Sun%20Certified%20Java%20Programmer%20(SCJP)%205.0%20Upgrade%20Exam%20Paperback%20by%20Ka%20Iok%20Tong%20-%202006%5D.pdf)  [**Buy**](https://www.amazon.com/Fast-Track-Certified-Programmer-Upgrade/dp/143030393X/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1474742989&sr=8-1&keywords=Fast+Track+to+Sun+Certified+Java) 
 
 ## Apache Camel
 
