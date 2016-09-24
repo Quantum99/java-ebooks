@@ -79,6 +79,7 @@ The MIT License (MIT)
 #### JMM
 
 [JSR-133: JavaTM Memory Model and Thread](%5BJSR-133%20JavaTM%20Memory%20Model%20and%20Thread%5D.pdf)  
+[Concurrent Programming in Java by Doug Lea](%5BConcurrent%20Programming%20in%20Java%20by%20Doug%20Lea%5D.pdf)  
 
 #### Cryptography
 
@@ -101,6 +102,8 @@ The MIT License (MIT)
 [**004. The Parts of a Java Program's Memory by Tia Newhall**](%5BSWARTHMORE%5D%5BThe%20Parts%20of%20a%20Java%20Program's%20Memory%20by%20Tia%20Newhall%5D.pdf)  
 [**005. Linked Structures by Tia Newhall**](%5BSWARTHMORE%5D%5BLinked%20Structures%20by%20Tia%20Newhall%5D.pdf)  
 [**006. Binary Search Trees (BST) Tia Newhall**](%5BSWARTHMORE%5D%5BBinary%20Search%20Trees%20(BST)%20Tia%20Newhall%5D.pdf)  
+[**007. Concurrent Programming in Java by Paolo Costa**](%5BConcurrent%20Programming%20in%20Java%20by%20Paolo%20Costa%5D.pdf)  
+[**008. The Java Memory Model by Peter Thiemann - 2010**](%5BThe%20Java%20Memory%20Model%20by%20Peter%20Thiemann%20-%202010%5D.pdf)  
 
 ## Online resources, the best collection
 
