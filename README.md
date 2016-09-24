@@ -20,6 +20,7 @@ The MIT License (MIT)
 [Java: The Complete Reference, Ninth Edition Kindle Edition by Herbert Schildt - 2014](%5BJava%20The%20Complete%20Reference%2C%20Ninth%20Edition%20Kindle%20Edition%20by%20Herbert%20Schildt%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt-ebook/dp/B00HSO0X6C/ref=mt_kindle?_encoding=UTF8&me=)  
 [Learning Java 4th Edition by Patrick Niemeyer - 2013](%5BLearning%20Java%204th%20Edition%20by%20Patrick%20Niemeyer%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Learning-Java-Patrick-Niemeyer/dp/1449319246/ref=mt_paperback?_encoding=UTF8&me=)  
 [The Well-Grounded Java Developer: Vital techniques of Java 7 and polyglot programming 1st Edition by Benjamin J Evans - 2013](%5BThe%20Well-Grounded%20Java%20Developer%20Vital%20techniques%20of%20Java%207%20and%20polyglot%20programming%201st%20Edition%20by%20Benjamin%20J%20Evans%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Well-Grounded-Java-Developer-techniques-programming/dp/1617290068/ref=sr_1_1?s=books&ie=UTF8&qid=1474743088&sr=1-1&keywords=The+Well-Grounded+Java+Developer+www.it-)   
+[Bitter Java Paperback by Bruce Tate - 2002](%5BBitter%20Java%20Paperback%20by%20Bruce%20Tate%20-%202002%5D.pdf)  [**Buy**](https://www.amazon.com/Bitter-Java-Bruce-Tate/dp/193011043X/ref=sr_1_1?s=books&ie=UTF8&qid=1474744350&sr=1-1&keywords=Bitter+Java)  
 
 ## Cassandra
 
@@ -34,6 +35,8 @@ The MIT License (MIT)
 
 [A Programmer's Guide to Java Certification: A Comprehensive Primer Kindle Edition by Khalid A Mughal - 2009](%5BA%20Programmer's%20Guide%20to%20Java%20Certification%20A%20Comprehensive%20Primer%20Kindle%20Edition%20by%20Khalid%20A%20Mughal%20-%202009%5D.pdf)  [**Buy**](https://www.amazon.com/Programmers-Guide-Java-Certification-Comprehensive-ebook/dp/B001QL5N4A/ref=mt_kindle?_encoding=UTF8&me=)  
 [Fast Track to Sun Certified Java Programmer (SCJP) 5.0 Upgrade Exam Paperback by Ka Iok Tong - 2006](%5BFast%20Track%20to%20Sun%20Certified%20Java%20Programmer%20(SCJP)%205.0%20Upgrade%20Exam%20Paperback%20by%20Ka%20Iok%20Tong%20-%202006%5D.pdf)  [**Buy**](https://www.amazon.com/Fast-Track-Certified-Programmer-Upgrade/dp/143030393X/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1474742989&sr=8-1&keywords=Fast+Track+to+Sun+Certified+Java) 
+[Scwcd Exam Study Kit: Java Web Component Developer Certification 2nd Edition by Hanumant Deshmukh - 2005](%5BScwcd%20Exam%20Study%20Kit%20Java%20Web%20Component%20Developer%20Certification%202nd%20Edition%20by%20Hanumant%20Deshmukh%20-%202005%5D.pdf)  [**Buy**](https://www.amazon.com/Scwcd-Exam-Study-Kit-Certification/dp/1932394389/ref=dp_ob_title_bk)  
+[OCA Java SE 7 Programmer I Certification Guide: Prepare for the 1ZO-803 exam 1st Edition by Mala Gupta - 2013](%5BOCA%20Java%20SE%207%20Programmer%20I%20Certification%20Guide%20Prepare%20for%20the%201ZO-803%20exam%201st%20Edition%20by%20Mala%20Gupta%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/OCA-Java-Programmer-Certification-Guide/dp/1617291048/ref=sr_1_1?s=books&ie=UTF8&qid=1474744398&sr=1-1&keywords=OCA+Java+SE+7+Programmer+I+Certification+Guide)  
 
 ## Apache Camel
 
@@ -52,6 +55,7 @@ The MIT License (MIT)
 ## Patterns
 
 [Java Design Patterns Kindle Edition by Vaskaran Sarcar - 2016](%5BJava%20Design%20Patterns%20Kindle%20Edition%20by%20Vaskaran%20Sarcar%20-%202016%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Design-Patterns-Vaskaran-Sarcar-ebook/dp/B01CZY16VU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1469871978&sr=1-1&keywords=Java+Design+Patterns#nav-subnav)  
+[Professional Java EE Design Patterns Kindle Edition by Murat Yener - 2015](%5BProfessional%20Java%20EE%20Design%20Patterns%20Kindle%20Edition%20by%20Murat%20Yener%20-%202015%5D.pdf)  [**Buy**](https://www.amazon.com/Professional-Java-EE-Design-Patterns-ebook/dp/B00R7S6AFC/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## REST
 
@@ -81,6 +85,7 @@ The MIT License (MIT)
 ## Lectures, the best collection
 
 [**000. Top 10 Most Common Java Performance Problems, AppDynamics - 2013**](%5BAPP_DYNAMICS%5D%5BTop%2010%20Most%20Common%20Java%20Performance%20Problems%20-%202013%5D.pdf)  
+[**001. Java Web Security Antipatterns Dominik Schadow - 2015](%5BJava%20Web%20Security%20Antipatterns%20Dominik%20Schadow%20-%202015%5D.pdf)  
 
 ## Online resources, the best collection
 
