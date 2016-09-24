@@ -76,13 +76,19 @@ The MIT License (MIT)
 
 ## Other
 
+#### JMM
+
+[JSR-133: JavaTM Memory Model and Thread](%5BJSR-133%20JavaTM%20Memory%20Model%20and%20Thread%5D.pdf)  
+
 #### Cryptography
+
 [Java Cryptography by Jeff Lawson - 2013](%5BJava%20Cryptography%20by%20Jeff%20Lawson%20-%202013%5D.pdf)  
 [Software Interfaces to Cryptographic Algorithms by Pieter Philippaerts - 2012](%5BSoftware%20Interfaces%20to%20Cryptographic%20Algorithms%20by%20Pieter%20Philippaerts%20-%202012%5D.pdf)  
 [Applying Java’s Cryptography Erik Costlow - 2014](%5BApplying%20Java's%20Cryptography%20Erik%20Costlow%20-%202014%5D.pdf)  
 [A Java API for X.509 Proxy Certificates by John Gilbert - 2008](%5BA%20Java%20API%20for%20X.509%20Proxy%20Certificates%20by%20John%20Gilbert%20-%202008%5D.pdf)  
 
 #### Security
+
 [Secure Web Development Teaching Modules. Introduction to Java Security by Li-Chiou Chen - 2011](%5BSecure%20Web%20Development%20Teaching%20Modules.%20Introduction%20to%20Java%20Security%20by%20Li-Chiou%20Chen%20-%202011%5D.pdf)  
 [Authentication and Session Management by Jim Manico - 2015](%5BAuthentication%20and%20Session%20Management%20by%20Jim%20Manico%20-%202015%5D.pdf)  
 
@@ -90,6 +96,11 @@ The MIT License (MIT)
 
 [**000. Top 10 Most Common Java Performance Problems, AppDynamics - 2013**](%5BAPP_DYNAMICS%5D%5BTop%2010%20Most%20Common%20Java%20Performance%20Problems%20-%202013%5D.pdf)  
 [**001. Java Web Security Antipatterns Dominik Schadow - 2015**](%5BJava%20Web%20Security%20Antipatterns%20Dominik%20Schadow%20-%202015%5D.pdf)  
+[**002. Java Memory Model - прагматика модели - 2013**](%5BJava%20Memory%20Model%20-%20прагматика%20модели%20-%202013%5D.pdf)  
+[**003. Method Calls in Java by Tia Newhall**](%5BSWARTHMORE%5D%5BMethod%20Calls%20in%20Java%20by%20Tia%20Newhall%5D.pdf)  
+[**004. The Parts of a Java Program's Memory by Tia Newhall**](%5BSWARTHMORE%5D%5BThe%20Parts%20of%20a%20Java%20Program's%20Memory%20by%20Tia%20Newhall%5D.pdf)  
+[**005. Linked Structures by Tia Newhall**](%5BSWARTHMORE%5D%5BLinked%20Structures%20by%20Tia%20Newhall%5D.pdf)  
+[**006. Binary Search Trees (BST) Tia Newhall**](%5BSWARTHMORE%5D%5BBinary%20Search%20Trees%20(BST)%20Tia%20Newhall%5D.pdf)  
 
 ## Online resources, the best collection
 
