@@ -22,6 +22,11 @@ The MIT License (MIT)
 
 [Cassandra Design Patterns Kindle Edition by Sanjay Sharma - 2014](%5BCassandra%20Design%20Patterns%20Kindle%20Edition%20by%20Sanjay%20Sharma%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Cassandra-Design-Patterns-Sanjay-Sharma-ebook/dp/B00I2ORN2E/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1469871927&sr=1-2&keywords=Cassandra+Design+Patterns#nav-subnav)  
 
+## Concurrency
+
+[Java Coding Guidelines: 75 Recommendations for Reliable and Secure Programs (SEI Series in Software Engineering) Kindle Edition by Fred Long - 2010](%5BJava%20Coding%20Guidelines%2075%20Recommendations%20for%20Reliable%20and%20Secure%20Programs%20(SEI%20Series%20in%20Software%20Engineering)%20Kindle%20Edition%20by%20Fred%20Long%20-%202010%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Coding-Guidelines-Recommendations-Engineering-ebook/dp/B00EQ8D31A/ref=mt_kindle?_encoding=UTF8&me=)  
+[Java Concurrency in Practice Kindle Edition by Tim Peierls - 2006](%5BJava%20Concurrency%20in%20Practice%20Kindle%20Edition%20by%20Tim%20Peierls%20-%202006%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Concurrency-Practice-Tim-Peierls-ebook/dp/B004V9OA84/ref=mt_kindle?_encoding=UTF8&me=)  
+
 ## Apache Camel
 
 [Camel in Action Paperback by Claus Ibsen - 2011](%5BCamel%20in%20Action%20Paperback%20by%20Claus%20Ibsen%20-%202011%5D.pdf)  [**Buy**](https://www.amazon.com/Camel-Action-Claus-Ibsen/dp/1935182366/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1474712056&sr=1-1-catcorr&keywords=Camel+in+Action)  
