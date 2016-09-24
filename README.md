@@ -12,12 +12,12 @@ The MIT License (MIT)
 [Java Cryptography (Java Series) 1st (first) Edition by Knudsen, Jonathan - 1998](%5BJava%20Cryptography%20by%20Jonathan%20B.%20Knudsen%2C%20First%20Edition%20-%201998%5D.pdf)  [**Buy**](http://www.amazon.com/Java-Cryptography-first-Knudsen-Jonathan/dp/B00BUFLMR4/ref=sr_1_1?s=books&ie=UTF8&qid=1462742695&sr=1-1&keywords=Java+Cryptography+by+Jonathan+B.+Knudsen%2C+First+Edition)  
 [Introduction To Cryptography With Java Applets 1st Edition by David Bishop - 2003](%5BIntroduction%20To%20Cryptography%20With%20Java%20Applets%201st%20Edition%20by%20David%20Bishop%20-%202003%5D.pdf)  [**Buy**](http://www.amazon.com/Introduction-Cryptography-Applets-David-Bishop/dp/0763722073)  
 
-## Cassandra
-
 ## Guide
 
 [Java in a Nutshell Kindle Edition by Benjamin J Evans - 2015](%5BJava%20in%20a%20Nutshell%20Kindle%20Edition%20by%20Benjamin%20J%20Evans%20-%202015%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Nutshell-Benjamin-J-Evans-ebook/dp/B00OL0853O/ref=mt_kindle?_encoding=UTF8&me=)  
 [Java SE8 for the Really Impatient: A Short Course on the Basics (Java Series) Kindle Edition by Cay S. Horstmann - 2014](%5BJava%20SE8%20for%20the%20Really%20Impatient%20A%20Short%20Course%20on%20the%20Basics%20(Java%20Series)%20Kindle%20Edition%20by%20Cay%20S.%20Horstmann%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-SE8-Really-Impatient-Course-ebook/dp/B00HSH2QT6/ref=mt_kindle?_encoding=UTF8&me=)  
+
+## Cassandra
 
 [Cassandra Design Patterns Kindle Edition by Sanjay Sharma - 2014](%5BCassandra%20Design%20Patterns%20Kindle%20Edition%20by%20Sanjay%20Sharma%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Cassandra-Design-Patterns-Sanjay-Sharma-ebook/dp/B00I2ORN2E/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1469871927&sr=1-2&keywords=Cassandra+Design+Patterns#nav-subnav)  
 
