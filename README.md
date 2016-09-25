@@ -24,6 +24,7 @@ The MIT License (MIT)
 [Effective Java (Java Series) Kindle Edition by Joshua Bloch - 2008](%5BEffective%20Java%20(Java%20Series)%20Kindle%20Edition%20by%20Joshua%20Bloch%20-%202008%5D.pdf)  [**Buy**](https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook/dp/B00B8V09HY/ref=mt_kindle?_encoding=UTF8&me=)  
 [Java 6 Platform Revealed 1st ed. Edition by John Zukowski - 2006](%5BJava%206%20Platform%20Revealed%201st%20ed.%20Edition%20by%20John%20Zukowski%20-%202006%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Platform-Revealed-John-Zukowski/dp/1590596609/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1474804794&sr=8-1&keywords=Java+6+Platform+Revealed)  
 [Java 7 New Features Cookbook Kindle Edition by Richard M. Reese - 2012](%5BJava%207%20New%20Features%20Cookbook%20Kindle%20Edition%20by%20Richard%20M.%20Reese%20-%202012%5D.pdf)  [**Buy**](https://www.amazon.com/Java-7-New-Features-Cookbook-ebook/dp/B007E6YCC0/ref=mt_kindle?_encoding=UTF8&me=)  
+[Java Enterprise in a Nutshell (In a Nutshell (O'Reilly)) 3rd Edition by Jim Farley - 2005](%5BJava%20Enterprise%20in%20a%20Nutshell%20(In%20a%20Nutshell%20(O'Reilly))%203rd%20Edition%20by%20Jim%20Farley%20-%202005%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Enterprise-Nutshell-OReilly/dp/0596101422/ref=sr_1_1?ie=UTF8&qid=1474830991&sr=8-1&keywords=Java+Enterprise+In+A+Nutshell)  
 
 ## Cassandra
 
@@ -56,6 +57,10 @@ The MIT License (MIT)
 
 [JasperReports 3.5 for Java Developers Kindle Edition by David R. Heffelfnger - 2009](%5BJasperReports%203.5%20for%20Java%20Developers%20Kindle%20Edition%20by%20David%20R.%20Heffelfnger%20-%202009%5D.pdf)  [**Buy**](https://www.amazon.com/JasperReports-Java-Developers-David-Heffelfnger-ebook/dp/B0057FTTH8/ref=mt_kindle?_encoding=UTF8&me=)  
 
+## JUnit
+
+[JUnit Recipes: Practical Methods for Programmer Testing by J B Rainsberger - 2005](%5BJUnit%20Recipes%20Practical%20Methods%20for%20Programmer%20Testing%20by%20J%20B%20Rainsberger%20-%202005%5D.pdf)  [**Buy**](https://www.amazon.com/JUnit-Recipes-Practical-Methods-Programmer/dp/1932394230/ref=sr_1_1?ie=UTF8&qid=1474830441&sr=8-1&keywords=JUnit+Recipes)  
+
 ## Interview 
 
 [Java Programming Interviews Exposed Kindle Edition by Noel Markham - 2014](%5BJava%20Programming%20Interviews%20Exposed%20Kindle%20Edition%20by%20Noel%20Markham%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Programming-Interviews-Exposed-Markham-ebook/dp/B00IA4BHN2/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
@@ -74,6 +79,11 @@ The MIT License (MIT)
 
 [Java Performance: The Definitive Guide Kindle Edition by Scott Oaks - 2014](%5BJava%20Performance%20The%20Definitive%20Guide%20Kindle%20Edition%20by%20Scott%20Oaks%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Performance-Definitive-Scott-Oaks-ebook/dp/B00JLTOZVQ/ref=mt_kindle?_encoding=UTF8&me=)  
 
+## Struts
+
+[Struts 2 in Action 1st Edition by Don Brown - 2007](%5BStruts%202%20in%20Action%201st%20Edition%20by%20Don%20Brown%20-%202007%5D.pdf)  [**Buy**](https://www.amazon.com/Struts-2-Action-Don-Brown/dp/193398807X/ref=sr_1_1?ie=UTF8&qid=1474830170&sr=8-1&keywords=Struts+2+in+action)  
+[Practical Apache Struts 2 Web 2.0 Projects (Practical Projects) 1st ed. Edition by Ian Roughley - 2007](%5BPractical%20Apache%20Struts%202%20Web%202.0%20Projects%20(Practical%20Projects)%201st%20ed.%20Edition%20by%20Ian%20Roughley%20-%202007%5D.pdf)  [**Buy**](https://www.amazon.com/Practical-Apache-Struts-Web-Projects/dp/1590599039/ref=sr_1_1?ie=UTF8&qid=1474830275&sr=8-1&keywords=Practical+Apache+Struts+2)  
+
 ## REST
 
 [REST in Practice: Hypermedia and Systems Architecture Kindle Edition by Ian Robinson - 2010](%5BREST%20in%20Practice%20Hypermedia%20and%20Systems%20Architecture%20Kindle%20Edition%20by%20Ian%20Robinson%20-%202010%5D.pdf)  [**Buy**](https://www.amazon.com/REST-Practice-Hypermedia-Systems-Architecture-ebook/dp/B0046RERXY/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
@@ -86,6 +96,10 @@ The MIT License (MIT)
 ## Scripting
 
 [Scripting in Java: Integrating with Groovy and JavaScript Kindle Edition by Kishori Sharan - 2012](%5BScripting%20in%20Java%20Integrating%20with%20Groovy%20and%20JavaScript%20Kindle%20Edition%20by%20Kishori%20Sharan%20-%202012%5D.pdf)  [**Buy**](https://www.amazon.com/Scripting-Java-Integrating-Groovy-JavaScript-ebook/dp/B00OLET42G/ref=mt_kindle?_encoding=UTF8&me=)  
+
+## Web Services
+
+[Java Web Services: Up and Running 2nd edition by Kalin, Martin by Martin Kalin - 2013](%5BJava%20Web%20Services%20Up%20and%20Running%202nd%20edition%20by%20Kalin%2C%20Martin%20by%20Martin%20Kalin%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Web-Services-Running-Paperback/dp/B011DC8GLI/ref=sr_1_1?ie=UTF8&qid=1474830607&sr=8-1&keywords=Java+Web+Services+-+Up+and+Running%2C+2nd+Edition)  
 
 ## Other
 
