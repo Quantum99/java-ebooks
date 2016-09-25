@@ -70,6 +70,10 @@ The MIT License (MIT)
 
 [Pro Java 7 NIO.2 (Expert's Voice in Java) Kindle Edition by Anghel Leonard - 2011](%5BPro%20Java%207%20NIO.2%20(Expert's%20Voice%20in%20Java)%20Kindle%20Edition%20by%20Anghel%20Leonard%20-%202011%5D.pdf)  [**Buy**](https://www.amazon.com/Pro-Java-NIO-2-Experts-Voice-ebook/dp/B006JPPN0W/ref=mt_kindle?_encoding=UTF8&me=)  
 
+## Network
+
+[Advanced Network Programming - Principles and Techniques: Network Application Programming with Java (Computer Communications and Networks) Kindle Edition by Bogdan Ciubotaru - 2013](%5BAdvanced%20Network%20Programming%20-%20Principles%20and%20Techniques%20Network%20Application%20Programming%20with%20Java%20(Computer%20Communications%20and%20Networks)%20Kindle%20Edition%20by%20Bogdan%20Ciubotaru%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Advanced-Network-Programming-Application-Communications-ebook/dp/B00E3BD0ZE/ref=mt_kindle?_encoding=UTF8&me=)  
+
 ## Patterns
 
 [Java Design Patterns Kindle Edition by Vaskaran Sarcar - 2016](%5BJava%20Design%20Patterns%20Kindle%20Edition%20by%20Vaskaran%20Sarcar%20-%202016%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Design-Patterns-Vaskaran-Sarcar-ebook/dp/B01CZY16VU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1469871978&sr=1-1&keywords=Java+Design+Patterns#nav-subnav)  
@@ -92,6 +96,7 @@ The MIT License (MIT)
 ## OSGi
 
 [OSGi in Action: Creating Modular Applications in Java 1st Edition by Richard Hall - 2011](%5BOSGi%20in%20Action%20Creating%20Modular%20Applications%20in%20Java%201st%20Edition%20by%20Richard%20Hall%20-%202011%5D.pdf)  [**Buy**](https://www.amazon.com/OSGi-Action-Creating-Modular-Applications/dp/1933988916/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1474711891&sr=8-1&keywords=OSGi+in+Action)  
+[Building Modular Cloud Apps with OSGi Kindle Edition by Paul Bakker - 2013](%5BBuilding%20Modular%20Cloud%20Apps%20with%20OSGi%20Kindle%20Edition%20by%20Paul%20Bakker%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Building-Modular-Cloud-Apps-OSGi-ebook/dp/B00F2ZO8WY/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1474832062&sr=1-1&keywords=Building+Modular+Cloud+Apps+with+OSGi)  
 
 ## Scripting
 
@@ -136,6 +141,8 @@ The MIT License (MIT)
 [**007. Concurrent Programming in Java by Paolo Costa**](%5BConcurrent%20Programming%20in%20Java%20by%20Paolo%20Costa%5D.pdf)  
 [**008. The Java Memory Model by Peter Thiemann - 2010**](%5BThe%20Java%20Memory%20Model%20by%20Peter%20Thiemann%20-%202010%5D.pdf)  
 [**009. The Java Memory Model by Jeremy Manson, William Pugh**](%5BThe%20Java%20Memory%20Model%20by%20Jeremy%20Manson%2C%20William%20Pugh%5D.pdf)  
+[**010. Bullet-Proof Java Concurrency - 2013**](%5BORACLE%5D%5BBullet-Proof%20Java%20Concurrency%5D.pdf)  
+[**011. Java and the Java Memory Model A Unified, Machine-Checked Formalisation by Andreas Lochbihler - 2012**](%5BJava%20and%20the%20Java%20Memory%20Model%20A%20Unified%2C%20Machine-Checked%20Formalisation%20by%20Andreas%20Lochbihler%20-%202012%5D.pdf)  
 
 ## Online resources, the best collection
 
