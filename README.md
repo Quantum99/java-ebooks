@@ -41,11 +41,16 @@ The MIT License (MIT)
 [Fast Track to Sun Certified Java Programmer (SCJP) 5.0 Upgrade Exam Paperback by Ka Iok Tong - 2006](%5BFast%20Track%20to%20Sun%20Certified%20Java%20Programmer%20(SCJP)%205.0%20Upgrade%20Exam%20Paperback%20by%20Ka%20Iok%20Tong%20-%202006%5D.pdf)  [**Buy**](https://www.amazon.com/Fast-Track-Certified-Programmer-Upgrade/dp/143030393X/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1474742989&sr=8-1&keywords=Fast+Track+to+Sun+Certified+Java)  
 [Scwcd Exam Study Kit: Java Web Component Developer Certification 2nd Edition by Hanumant Deshmukh - 2005](%5BScwcd%20Exam%20Study%20Kit%20Java%20Web%20Component%20Developer%20Certification%202nd%20Edition%20by%20Hanumant%20Deshmukh%20-%202005%5D.pdf)  [**Buy**](https://www.amazon.com/Scwcd-Exam-Study-Kit-Certification/dp/1932394389/ref=dp_ob_title_bk)  
 [OCA Java SE 7 Programmer I Certification Guide: Prepare for the 1ZO-803 exam 1st Edition by Mala Gupta - 2013](%5BOCA%20Java%20SE%207%20Programmer%20I%20Certification%20Guide%20Prepare%20for%20the%201ZO-803%20exam%201st%20Edition%20by%20Mala%20Gupta%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/OCA-Java-Programmer-Certification-Guide/dp/1617291048/ref=sr_1_1?s=books&ie=UTF8&qid=1474744398&sr=1-1&keywords=OCA+Java+SE+7+Programmer+I+Certification+Guide)  
+[Oracle Certified Associate, Java SE 7 Programmer Study Guide Kindle Edition by Richard M. Reese - 2012](%5BOracle%20Certified%20Associate%2C%20Java%20SE%207%20Programmer%20Study%20Guide%20Kindle%20Edition%20by%20Richard%20M.%20Reese%20-%202012%5D.pdf)  [**Buy**](https://www.amazon.com/Oracle-Certified-Associate-Programmer-Study-ebook/dp/B0091G2RFU/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Apache Camel
 
 [Camel in Action Paperback by Claus Ibsen - 2011](%5BCamel%20in%20Action%20Paperback%20by%20Claus%20Ibsen%20-%202011%5D.pdf)  [**Buy**](https://www.amazon.com/Camel-Action-Claus-Ibsen/dp/1935182366/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1474712056&sr=1-1-catcorr&keywords=Camel+in+Action)  
 [Apache Camel Developer's Cookbook Paperback by Scott Cranton - 2013](%5BApache%20Camel%20Developer's%20Cookbook%20Paperback%20by%20Scott%20Cranton%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Developers-Cookbook-Integration-Accessible-Recipes/dp/1782170308/ref=sr_1_1?s=books&ie=UTF8&qid=1474712116&sr=1-1&keywords=Apache+Camel+Developer%27s+Cookbook)  
+
+## Functional Java
+
+[Functional Programming in Java: Harnessing the Power Of Java 8 Lambda Expressions Kindle Edition by Venkat Subramaniam - 2014](%5BFunctional%20Programming%20in%20Java%20Harnessing%20the%20Power%20Of%20Java%208%20Lambda%20Expressions%20Kindle%20Edition%20by%20Venkat%20Subramaniam%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Functional-Programming-Java-Harnessing-Expressions-ebook/dp/B00J8W0OTI/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## JasperReports
 
@@ -87,6 +92,10 @@ The MIT License (MIT)
 #### JMM
 
 [JSR-133: JavaTM Memory Model and Thread](%5BJSR-133%20JavaTM%20Memory%20Model%20and%20Thread%5D.pdf)  
+[The Java Memory Model by Jeremy Manson](%5BThe%20Java%20Memory%20Model%20by%20Jeremy%20Manson%5D.pdf)  
+
+#### Concurrency
+
 [Concurrent Programming in Java by Doug Lea](%5BConcurrent%20Programming%20in%20Java%20by%20Doug%20Lea%5D.pdf)  
 
 #### Cryptography
@@ -112,6 +121,7 @@ The MIT License (MIT)
 [**006. Binary Search Trees (BST) Tia Newhall**](%5BSWARTHMORE%5D%5BBinary%20Search%20Trees%20(BST)%20Tia%20Newhall%5D.pdf)  
 [**007. Concurrent Programming in Java by Paolo Costa**](%5BConcurrent%20Programming%20in%20Java%20by%20Paolo%20Costa%5D.pdf)  
 [**008. The Java Memory Model by Peter Thiemann - 2010**](%5BThe%20Java%20Memory%20Model%20by%20Peter%20Thiemann%20-%202010%5D.pdf)  
+[**009. The Java Memory Model by Jeremy Manson, William Pugh**](%5BThe%20Java%20Memory%20Model%20by%20Jeremy%20Manson%2C%20William%20Pugh%5D.pdf)  
 
 ## Online resources, the best collection
 
