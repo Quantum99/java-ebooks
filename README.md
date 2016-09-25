@@ -25,6 +25,7 @@ The MIT License (MIT)
 [Java 6 Platform Revealed 1st ed. Edition by John Zukowski - 2006](%5BJava%206%20Platform%20Revealed%201st%20ed.%20Edition%20by%20John%20Zukowski%20-%202006%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Platform-Revealed-John-Zukowski/dp/1590596609/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1474804794&sr=8-1&keywords=Java+6+Platform+Revealed)  
 [Java 7 New Features Cookbook Kindle Edition by Richard M. Reese - 2012](%5BJava%207%20New%20Features%20Cookbook%20Kindle%20Edition%20by%20Richard%20M.%20Reese%20-%202012%5D.pdf)  [**Buy**](https://www.amazon.com/Java-7-New-Features-Cookbook-ebook/dp/B007E6YCC0/ref=mt_kindle?_encoding=UTF8&me=)  
 [Java Enterprise in a Nutshell (In a Nutshell (O'Reilly)) 3rd Edition by Jim Farley - 2005](%5BJava%20Enterprise%20in%20a%20Nutshell%20(In%20a%20Nutshell%20(O'Reilly))%203rd%20Edition%20by%20Jim%20Farley%20-%202005%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Enterprise-Nutshell-OReilly/dp/0596101422/ref=sr_1_1?ie=UTF8&qid=1474830991&sr=8-1&keywords=Java+Enterprise+In+A+Nutshell)  
+[Thinking in Java (4th Edition) 4th Edition by Bruce Eckel - 2006](%5BThinking%20in%20Java%20(4th%20Edition)%204th%20Edition%20by%20Bruce%20Eckel%20-%202006%5D.pdf)  [**Buy**](https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1474832362&sr=8-1&keywords=Thinking+In+Java+4th)  
 
 ## Cassandra
 
@@ -43,6 +44,10 @@ The MIT License (MIT)
 [Scwcd Exam Study Kit: Java Web Component Developer Certification 2nd Edition by Hanumant Deshmukh - 2005](%5BScwcd%20Exam%20Study%20Kit%20Java%20Web%20Component%20Developer%20Certification%202nd%20Edition%20by%20Hanumant%20Deshmukh%20-%202005%5D.pdf)  [**Buy**](https://www.amazon.com/Scwcd-Exam-Study-Kit-Certification/dp/1932394389/ref=dp_ob_title_bk)  
 [OCA Java SE 7 Programmer I Certification Guide: Prepare for the 1ZO-803 exam 1st Edition by Mala Gupta - 2013](%5BOCA%20Java%20SE%207%20Programmer%20I%20Certification%20Guide%20Prepare%20for%20the%201ZO-803%20exam%201st%20Edition%20by%20Mala%20Gupta%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/OCA-Java-Programmer-Certification-Guide/dp/1617291048/ref=sr_1_1?s=books&ie=UTF8&qid=1474744398&sr=1-1&keywords=OCA+Java+SE+7+Programmer+I+Certification+Guide)  
 [Oracle Certified Associate, Java SE 7 Programmer Study Guide Kindle Edition by Richard M. Reese - 2012](%5BOracle%20Certified%20Associate%2C%20Java%20SE%207%20Programmer%20Study%20Guide%20Kindle%20Edition%20by%20Richard%20M.%20Reese%20-%202012%5D.pdf)  [**Buy**](https://www.amazon.com/Oracle-Certified-Associate-Programmer-Study-ebook/dp/B0091G2RFU/ref=mt_kindle?_encoding=UTF8&me=)  
+
+## Algorithms
+
+[Data Structures and Algorithms in Java 6th Edition by Michael T. Goodrich - 2014](%5BData%20Structures%20and%20Algorithms%20in%20Java%206th%20Edition%20by%20Michael%20T.%20Goodrich%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/ref=sr_1_1?ie=UTF8&qid=1474832489&sr=8-1&keywords=Data+Structures+%26+Algorithms+in+Java)  
 
 ## Apache Camel
 
@@ -72,6 +77,7 @@ The MIT License (MIT)
 
 ## Network
 
+[An Introduction to Network Programming with Java: Java 7 Compatible Kindle Edition by Jan Graba - 2013](%5BAn%20Introduction%20to%20Network%20Programming%20with%20Java%20Java%207%20Compatible%20Kindle%20Edition%20by%20Jan%20Graba%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Introduction-Network-Programming-Java-Compatible-ebook/dp/B00ECWYKL2/ref=mt_kindle?_encoding=UTF8&me=)  
 [Advanced Network Programming - Principles and Techniques: Network Application Programming with Java (Computer Communications and Networks) Kindle Edition by Bogdan Ciubotaru - 2013](%5BAdvanced%20Network%20Programming%20-%20Principles%20and%20Techniques%20Network%20Application%20Programming%20with%20Java%20(Computer%20Communications%20and%20Networks)%20Kindle%20Edition%20by%20Bogdan%20Ciubotaru%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Advanced-Network-Programming-Application-Communications-ebook/dp/B00E3BD0ZE/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Patterns
@@ -143,6 +149,7 @@ The MIT License (MIT)
 [**009. The Java Memory Model by Jeremy Manson, William Pugh**](%5BThe%20Java%20Memory%20Model%20by%20Jeremy%20Manson%2C%20William%20Pugh%5D.pdf)  
 [**010. Bullet-Proof Java Concurrency - 2013**](%5BORACLE%5D%5BBullet-Proof%20Java%20Concurrency%5D.pdf)  
 [**011. Java and the Java Memory Model A Unified, Machine-Checked Formalisation by Andreas Lochbihler - 2012**](%5BJava%20and%20the%20Java%20Memory%20Model%20A%20Unified%2C%20Machine-Checked%20Formalisation%20by%20Andreas%20Lochbihler%20-%202012%5D.pdf)  
+[**012. The Java memory model. Quis Custodiet Ipsos Custodes. Andreas Lochbihler - 2012**](%5BThe%20Java%20memory%20model.%20Quis%20Custodiet%20Ipsos%20Custodes.%20Andreas%20Lochbihler%20-%202012%5D.pdf)  
 
 ## Online resources, the best collection
 
