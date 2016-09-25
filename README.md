@@ -21,6 +21,9 @@ The MIT License (MIT)
 [Learning Java 4th Edition by Patrick Niemeyer - 2013](%5BLearning%20Java%204th%20Edition%20by%20Patrick%20Niemeyer%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Learning-Java-Patrick-Niemeyer/dp/1449319246/ref=mt_paperback?_encoding=UTF8&me=)  
 [The Well-Grounded Java Developer: Vital techniques of Java 7 and polyglot programming 1st Edition by Benjamin J Evans - 2013](%5BThe%20Well-Grounded%20Java%20Developer%20Vital%20techniques%20of%20Java%207%20and%20polyglot%20programming%201st%20Edition%20by%20Benjamin%20J%20Evans%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Well-Grounded-Java-Developer-techniques-programming/dp/1617290068/ref=sr_1_1?s=books&ie=UTF8&qid=1474743088&sr=1-1&keywords=The+Well-Grounded+Java+Developer+www.it-)   
 [Bitter Java Paperback by Bruce Tate - 2002](%5BBitter%20Java%20Paperback%20by%20Bruce%20Tate%20-%202002%5D.pdf)  [**Buy**](https://www.amazon.com/Bitter-Java-Bruce-Tate/dp/193011043X/ref=sr_1_1?s=books&ie=UTF8&qid=1474744350&sr=1-1&keywords=Bitter+Java)  
+[Effective Java (Java Series) Kindle Edition by Joshua Bloch - 2008](%5BEffective%20Java%20(Java%20Series)%20Kindle%20Edition%20by%20Joshua%20Bloch%20-%202008%5D.pdf)  [**Buy**](https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook/dp/B00B8V09HY/ref=mt_kindle?_encoding=UTF8&me=)  
+[Java 6 Platform Revealed 1st ed. Edition by John Zukowski - 2006](%5BJava%206%20Platform%20Revealed%201st%20ed.%20Edition%20by%20John%20Zukowski%20-%202006%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Platform-Revealed-John-Zukowski/dp/1590596609/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1474804794&sr=8-1&keywords=Java+6+Platform+Revealed)  
+[Java 7 New Features Cookbook Kindle Edition by Richard M. Reese - 2012](%5BJava%207%20New%20Features%20Cookbook%20Kindle%20Edition%20by%20Richard%20M.%20Reese%20-%202012%5D.pdf)  [**Buy**](https://www.amazon.com/Java-7-New-Features-Cookbook-ebook/dp/B007E6YCC0/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Cassandra
 
@@ -29,7 +32,8 @@ The MIT License (MIT)
 ## Concurrency
 
 [Java Coding Guidelines: 75 Recommendations for Reliable and Secure Programs (SEI Series in Software Engineering) Kindle Edition by Fred Long - 2010](%5BJava%20Coding%20Guidelines%2075%20Recommendations%20for%20Reliable%20and%20Secure%20Programs%20(SEI%20Series%20in%20Software%20Engineering)%20Kindle%20Edition%20by%20Fred%20Long%20-%202010%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Coding-Guidelines-Recommendations-Engineering-ebook/dp/B00EQ8D31A/ref=mt_kindle?_encoding=UTF8&me=)  
-[Java Concurrency in Practice Kindle Edition by Tim Peierls - 2006](%5BJava%20Concurrency%20in%20Practice%20Kindle%20Edition%20by%20Tim%20Peierls%20-%202006%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Concurrency-Practice-Tim-Peierls-ebook/dp/B004V9OA84/ref=mt_kindle?_encoding=UTF8&me=)  
+[Java Concurrency in Practice Kindle Edition by Brian Goetz - 2010](%5BJava%20Concurrency%20in%20Practice%20Kindle%20Edition%20by%20Brian%20Goetz%20-%202010%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Concurrency-Practice-Tim-Peierls-ebook/dp/B004V9OA84/ref=mt_kindle?_encoding=UTF8&me=)  
+[Java 7 Concurrency Cookbook (Quick Answers to Common Problems) Kindle Edition by Javier Fernández González](%5BJava%207%20Concurrency%20Cookbook%20(Quick%20Answers%20to%20Common%20Problems)%20Kindle%20Edition%20by%20Javier%20Fernández%20González%5D.pdf)  [**Buy**](https://www.amazon.com/Concurrency-Cookbook-Answers-Common-Problems-ebook/dp/B009X5KIGO/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Certification
 
@@ -42,6 +46,10 @@ The MIT License (MIT)
 
 [Camel in Action Paperback by Claus Ibsen - 2011](%5BCamel%20in%20Action%20Paperback%20by%20Claus%20Ibsen%20-%202011%5D.pdf)  [**Buy**](https://www.amazon.com/Camel-Action-Claus-Ibsen/dp/1935182366/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1474712056&sr=1-1-catcorr&keywords=Camel+in+Action)  
 [Apache Camel Developer's Cookbook Paperback by Scott Cranton - 2013](%5BApache%20Camel%20Developer's%20Cookbook%20Paperback%20by%20Scott%20Cranton%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Developers-Cookbook-Integration-Accessible-Recipes/dp/1782170308/ref=sr_1_1?s=books&ie=UTF8&qid=1474712116&sr=1-1&keywords=Apache+Camel+Developer%27s+Cookbook)  
+
+## JasperReports
+
+[JasperReports 3.5 for Java Developers Kindle Edition by David R. Heffelfnger - 2009](%5BJasperReports%203.5%20for%20Java%20Developers%20Kindle%20Edition%20by%20David%20R.%20Heffelfnger%20-%202009%5D.pdf)  [**Buy**](https://www.amazon.com/JasperReports-Java-Developers-David-Heffelfnger-ebook/dp/B0057FTTH8/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Interview 
 
