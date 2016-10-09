@@ -26,6 +26,9 @@ The MIT License (MIT)
 [Java 7 New Features Cookbook Kindle Edition by Richard M. Reese - 2012](%5BJava%207%20New%20Features%20Cookbook%20Kindle%20Edition%20by%20Richard%20M.%20Reese%20-%202012%5D.pdf)  [**Buy**](https://www.amazon.com/Java-7-New-Features-Cookbook-ebook/dp/B007E6YCC0/ref=mt_kindle?_encoding=UTF8&me=)  
 [Java Enterprise in a Nutshell (In a Nutshell (O'Reilly)) 3rd Edition by Jim Farley - 2005](%5BJava%20Enterprise%20in%20a%20Nutshell%20(In%20a%20Nutshell%20(O'Reilly))%203rd%20Edition%20by%20Jim%20Farley%20-%202005%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Enterprise-Nutshell-OReilly/dp/0596101422/ref=sr_1_1?ie=UTF8&qid=1474830991&sr=8-1&keywords=Java+Enterprise+In+A+Nutshell)  
 [Thinking in Java (4th Edition) 4th Edition by Bruce Eckel - 2006](%5BThinking%20in%20Java%20(4th%20Edition)%204th%20Edition%20by%20Bruce%20Eckel%20-%202006%5D.pdf)  [**Buy**](https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1474832362&sr=8-1&keywords=Thinking+In+Java+4th)  
+[Java 8 in Action: Lambdas, Streams, and functional-style programming 1st Edition by Raoul-Gabriel Urma - 2015](%5BJava%208%20in%20Action%20Lambdas%2C%20Streams%2C%20and%20functional-style%20programming%201st%20Edition%20by%20Raoul-Gabriel%20Urma%20-%202015%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994/ref=sr_1_1?ie=UTF8&qid=1476042250&sr=8-1&keywords=%5BJAVA%5D%5BJava+8+in+Action%5D)  
+[Java 8 Recipes 2nd edition by Juneau, Josh - 2014](%5BJava%208%20Recipes%202nd%20edition%20by%20Juneau%2C%20Josh%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Recipes-Juneau-Josh-Paperback/dp/B00ZY8H4PC/ref=sr_1_1?ie=UTF8&qid=1476042333&sr=8-1&keywords=Java+8+Recipes%2C+2nd+Edition)  
+[Java Coding Guidelines: 75 Recommendations for Reliable and Secure Programs by Fred Long - 2014](%5BJava%20Coding%20Guidelines%2075%20Recommendations%20for%20Reliable%20and%20Secure%20Programs%20by%20Fred%20Long%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Coding-Guidelines-Recommendations-Engineering-ebook/dp/B00EQ8D31A/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Cassandra
 
@@ -33,7 +36,7 @@ The MIT License (MIT)
 
 ## Concurrency
 
-[Java Coding Guidelines: 75 Recommendations for Reliable and Secure Programs (SEI Series in Software Engineering) Kindle Edition by Fred Long - 2010](%5BJava%20Coding%20Guidelines%2075%20Recommendations%20for%20Reliable%20and%20Secure%20Programs%20(SEI%20Series%20in%20Software%20Engineering)%20Kindle%20Edition%20by%20Fred%20Long%20-%202010%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Coding-Guidelines-Recommendations-Engineering-ebook/dp/B00EQ8D31A/ref=mt_kindle?_encoding=UTF8&me=)  
+[Java Concurrency Guidelines by Fred Long - 2010](%5BJava%20Concurrency%20Guidelines%20by%20Fred%20Long%20-%202010%5D.pdf)  
 [Java Concurrency in Practice Kindle Edition by Brian Goetz - 2010](%5BJava%20Concurrency%20in%20Practice%20Kindle%20Edition%20by%20Brian%20Goetz%20-%202010%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Concurrency-Practice-Tim-Peierls-ebook/dp/B004V9OA84/ref=mt_kindle?_encoding=UTF8&me=)  
 [Java 7 Concurrency Cookbook (Quick Answers to Common Problems) Kindle Edition by Javier Fernández González](%5BJava%207%20Concurrency%20Cookbook%20(Quick%20Answers%20to%20Common%20Problems)%20Kindle%20Edition%20by%20Javier%20Fernández%20González%5D.pdf)  [**Buy**](https://www.amazon.com/Concurrency-Cookbook-Answers-Common-Problems-ebook/dp/B009X5KIGO/ref=mt_kindle?_encoding=UTF8&me=)  
 
@@ -79,6 +82,7 @@ The MIT License (MIT)
 
 [An Introduction to Network Programming with Java: Java 7 Compatible Kindle Edition by Jan Graba - 2013](%5BAn%20Introduction%20to%20Network%20Programming%20with%20Java%20Java%207%20Compatible%20Kindle%20Edition%20by%20Jan%20Graba%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Introduction-Network-Programming-Java-Compatible-ebook/dp/B00ECWYKL2/ref=mt_kindle?_encoding=UTF8&me=)  
 [Advanced Network Programming - Principles and Techniques: Network Application Programming with Java (Computer Communications and Networks) Kindle Edition by Bogdan Ciubotaru - 2013](%5BAdvanced%20Network%20Programming%20-%20Principles%20and%20Techniques%20Network%20Application%20Programming%20with%20Java%20(Computer%20Communications%20and%20Networks)%20Kindle%20Edition%20by%20Bogdan%20Ciubotaru%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Advanced-Network-Programming-Application-Communications-ebook/dp/B00E3BD0ZE/ref=mt_kindle?_encoding=UTF8&me=)  
+[Java Network Programming Kindle Edition by Elliotte Rusty Harold - 2014](%5BJava%20Network%20Programming%20Kindle%20Edition%20by%20Elliotte%20Rusty%20Harold%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Network-Programming-Elliotte-Rusty-Harold-ebook/dp/B00FKJEPRK/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Patterns
 
