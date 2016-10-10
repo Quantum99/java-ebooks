@@ -29,6 +29,10 @@ The MIT License (MIT)
 [Java 8 in Action: Lambdas, Streams, and functional-style programming 1st Edition by Raoul-Gabriel Urma - 2015](%5BJava%208%20in%20Action%20Lambdas%2C%20Streams%2C%20and%20functional-style%20programming%201st%20Edition%20by%20Raoul-Gabriel%20Urma%20-%202015%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994/ref=sr_1_1?ie=UTF8&qid=1476042250&sr=8-1&keywords=%5BJAVA%5D%5BJava+8+in+Action%5D)  
 [Java 8 Recipes 2nd edition by Juneau, Josh - 2014](%5BJava%208%20Recipes%202nd%20edition%20by%20Juneau%2C%20Josh%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Recipes-Juneau-Josh-Paperback/dp/B00ZY8H4PC/ref=sr_1_1?ie=UTF8&qid=1476042333&sr=8-1&keywords=Java+8+Recipes%2C+2nd+Edition)  
 [Java Coding Guidelines: 75 Recommendations for Reliable and Secure Programs by Fred Long - 2014](%5BJava%20Coding%20Guidelines%2075%20Recommendations%20for%20Reliable%20and%20Secure%20Programs%20by%20Fred%20Long%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Coding-Guidelines-Recommendations-Engineering-ebook/dp/B00EQ8D31A/ref=mt_kindle?_encoding=UTF8&me=)  
+[Java Cookbook Kindle Edition by Ian F. Darwin - 2014](%5BJava%20Cookbook%20Kindle%20Edition%20by%20Ian%20F.%20Darwin%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Java-Cookbook-Ian-F-Darwin-ebook/dp/B00L9IVLHI/ref=mt_kindle?_encoding=UTF8&me=)  
+[Professional Java for Web Applications Kindle Edition by Nicholas S. Williams - 2014](%5BProfessional%20Java%20for%20Web%20Applications%20Kindle%20Edition%20by%20Nicholas%20S.%20Williams%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Professional-Java-Applications-Nicholas-Williams-ebook/dp/B00IPFBMS6/ref=mt_kindle?_encoding=UTF8&me=)  
+[Inside the Java 2 Virtual Machine by Bill Venners - 2000](%5BInside%20the%20Java%202%20Virtual%20Machine%20by%20Bill%20Venners%20-%202000%5D.pdf)  [**Buy**](https://www.amazon.com/Inside-Java-2-Virtual-Machine/dp/0071350934/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1476083334&sr=1-1-catcorr&keywords=Inside+the+Java+Virtual+Machine)  
+[The Java Virtual Machine Specification Java SE 8 Edition by Tim Lindholm - 2015](%5BThe%20Java%20Virtual%20Machine%20Specification%20Java%20SE%208%20Edition%20by%20Tim%20Lindholm%20-%202015%5D.pdf)  
 
 ## Cassandra
 
@@ -102,6 +106,7 @@ The MIT License (MIT)
 
 [REST in Practice: Hypermedia and Systems Architecture Kindle Edition by Ian Robinson - 2010](%5BREST%20in%20Practice%20Hypermedia%20and%20Systems%20Architecture%20Kindle%20Edition%20by%20Ian%20Robinson%20-%202010%5D.pdf)  [**Buy**](https://www.amazon.com/REST-Practice-Hypermedia-Systems-Architecture-ebook/dp/B0046RERXY/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
 [Restlet in Action: Developing RESTful web APIs in Java 1st Edition by Jerome Louvel - 2013](%5BRestlet%20in%20Action%20Developing%20RESTful%20web%20APIs%20in%20Java%201st%20Edition%20by%20Jerome%20Louvel%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/Restlet-Action-Developing-RESTful-APIs/dp/193518234X/ref=sr_1_1?ie=UTF8&qid=1474710303&sr=8-1&keywords=Restlet+in+Action)  
+[RESTful Java with JAX-RS 2.0 Kindle Edition by Bill Burke - 2013](%5BRESTful%20Java%20with%20JAX-RS%202.0%20Kindle%20Edition%20by%20Bill%20Burke%20-%202013%5D.pdf)  [**Buy**](https://www.amazon.com/RESTful-Java-JAX-RS-Bill-Burke-ebook/dp/B00GP44SKS/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## OSGi
 
@@ -154,8 +159,13 @@ The MIT License (MIT)
 [**010. Bullet-Proof Java Concurrency - 2013**](%5BORACLE%5D%5BBullet-Proof%20Java%20Concurrency%5D.pdf)  
 [**011. Java and the Java Memory Model A Unified, Machine-Checked Formalisation by Andreas Lochbihler - 2012**](%5BJava%20and%20the%20Java%20Memory%20Model%20A%20Unified%2C%20Machine-Checked%20Formalisation%20by%20Andreas%20Lochbihler%20-%202012%5D.pdf)  
 [**012. The Java memory model. Quis Custodiet Ipsos Custodes. Andreas Lochbihler - 2012**](%5BThe%20Java%20memory%20model.%20Quis%20Custodiet%20Ipsos%20Custodes.%20Andreas%20Lochbihler%20-%202012%5D.pdf)  
+[**013. Inside IBM Java 7 by Tim Ellison - 2011**](%5BIBM%5D%5BInside%20IBM%20Java%207%20by%20Tim%20Ellison%20-%202011%5D.pdf)  
+[**014. Inside the Java Virtual Machine by Filip Hanik - 2007**](%5BCOVALENT%20TECHNOLOGIES%5D%5BInside%20the%20Java%20Virtual%20Machine%20by%20Filip%20Hanik%20-%202007%5D.pdf)  
 
 ## Online resources, the best collection
 
 [**000. Java Concept Of The Day, javaconceptoftheday.com**](http://javaconceptoftheday.com)  
 [**001. java.interview.preparation, javadecodedquestions.blogspot.ru**](http://javadecodedquestions.blogspot.ru)  
+[**002. Java Community Process**](https://jcp.org)  
+[**003. International Journal of Computer Applications**](http://www.ijcaonline.org)  
+[Objects and Method Calling in Java Virtual Machine](http://www.ijcaonline.org/archives/volume86/number11/15032-3353)  
